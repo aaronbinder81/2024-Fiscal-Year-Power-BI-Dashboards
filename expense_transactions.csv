@@ -1,0 +1,501 @@
+Transaction_ID,Date,Department,Category,Vendor,Amount,Approved,Payment_Method
+TXN-1000,2024-05-08,Sales,Software & Tools,Salesforce,23241.65,Yes,Credit Card
+TXN-1001,2024-09-25,Sales,Utilities,Google Workspace,20437.38,Yes,Check
+TXN-1002,2024-10-14,Operations,Travel,Delta Airlines,6773.4,Yes,ACH
+TXN-1003,2024-09-15,HR,Consulting,AWS,11064.88,Yes,Wire Transfer
+TXN-1004,2024-09-08,Sales,Consulting,AT&T,721.65,Yes,Credit Card
+TXN-1005,2024-01-28,Sales,Payroll,Deloitte,5877.76,Yes,Wire Transfer
+TXN-1006,2024-03-24,Engineering,Utilities,Workday,5513.07,No,Wire Transfer
+TXN-1007,2024-02-22,HR,Equipment,Slack,4922.17,Yes,Check
+TXN-1008,2024-01-22,HR,Utilities,LinkedIn,21623.15,Yes,Credit Card
+TXN-1009,2024-02-08,HR,Consulting,Delta Airlines,20054.69,Yes,Check
+TXN-1010,2024-08-08,Marketing,Equipment,Stripe,4750.5,Yes,Check
+TXN-1011,2024-09-27,Operations,Software & Tools,Salesforce,1454.59,Yes,Wire Transfer
+TXN-1012,2024-04-28,Marketing,Equipment,Slack,12243.9,Yes,Wire Transfer
+TXN-1013,2024-05-26,HR,Payroll,Zoom,24635.66,No,ACH
+TXN-1014,2024-05-07,HR,Utilities,Salesforce,4038.96,Yes,ACH
+TXN-1015,2024-09-28,Sales,Payroll,Office Depot,14687.6,Yes,Credit Card
+TXN-1016,2024-02-20,Operations,Software & Tools,AWS,21313.3,Yes,Check
+TXN-1017,2024-01-20,Sales,Office Supplies,AWS,14557.19,No,ACH
+TXN-1018,2024-06-08,Engineering,Office Supplies,WeWork,16809.2,No,Wire Transfer
+TXN-1019,2024-02-01,Finance,Marketing Spend,Adobe,11539.17,Yes,Credit Card
+TXN-1020,2024-03-12,Operations,Office Supplies,Workday,12745.94,Yes,Wire Transfer
+TXN-1021,2024-09-23,Engineering,Marketing Spend,WeWork,4112.12,Yes,ACH
+TXN-1022,2024-03-09,Finance,Software & Tools,AWS,23485.46,Yes,Wire Transfer
+TXN-1023,2024-12-11,Engineering,Marketing Spend,Delta Airlines,15199.78,Yes,Check
+TXN-1024,2024-07-27,Engineering,Payroll,WeWork,2489.0,Yes,Credit Card
+TXN-1025,2024-05-06,Engineering,Travel,HubSpot,16000.41,No,Check
+TXN-1026,2024-12-05,Operations,Payroll,Office Depot,2974.47,Yes,ACH
+TXN-1027,2024-01-10,Operations,Travel,Deloitte,10858.71,Yes,ACH
+TXN-1028,2024-06-25,Marketing,Office Supplies,Office Depot,16739.95,No,Wire Transfer
+TXN-1029,2024-03-14,Marketing,Travel,Salesforce,24409.91,Yes,ACH
+TXN-1030,2024-12-04,HR,Office Supplies,Slack,6816.78,Yes,Check
+TXN-1031,2024-08-12,Marketing,Office Supplies,WeWork,20451.35,Yes,Wire Transfer
+TXN-1032,2024-05-28,Sales,Office Supplies,AWS,10081.96,Yes,ACH
+TXN-1033,2024-09-11,Finance,Equipment,Salesforce,17052.05,Yes,ACH
+TXN-1034,2024-10-14,Marketing,Marketing Spend,Deloitte,1148.78,Yes,Check
+TXN-1035,2024-10-07,Operations,Software & Tools,WeWork,9752.85,Yes,Check
+TXN-1036,2024-02-22,Sales,Office Supplies,Workday,9232.69,Yes,ACH
+TXN-1037,2024-05-17,Finance,Software & Tools,WeWork,18049.91,No,ACH
+TXN-1038,2024-04-14,HR,Marketing Spend,LinkedIn,13949.43,No,Wire Transfer
+TXN-1039,2024-01-10,Operations,Marketing Spend,WeWork,10270.66,Yes,Check
+TXN-1040,2024-08-22,Operations,Consulting,Delta Airlines,11731.71,No,Wire Transfer
+TXN-1041,2024-11-21,Finance,Software & Tools,AT&T,7237.9,Yes,Credit Card
+TXN-1042,2024-04-05,Marketing,Marketing Spend,Salesforce,5771.09,Yes,Wire Transfer
+TXN-1043,2024-11-19,HR,Software & Tools,Delta Airlines,11494.32,No,Check
+TXN-1044,2024-12-01,HR,Office Supplies,Workday,3859.77,Yes,Check
+TXN-1045,2024-12-17,Marketing,Travel,Adobe,20141.92,Yes,Wire Transfer
+TXN-1046,2024-08-22,Sales,Utilities,Office Depot,3506.81,Yes,Check
+TXN-1047,2024-09-15,Operations,Equipment,Workday,20798.12,Yes,Check
+TXN-1048,2024-11-09,HR,Marketing Spend,Zoom,18844.06,No,Wire Transfer
+TXN-1049,2024-05-08,Engineering,Utilities,WeWork,2121.59,Yes,ACH
+TXN-1050,2024-04-13,Operations,Software & Tools,HubSpot,3631.68,Yes,Wire Transfer
+TXN-1051,2024-09-15,Sales,Equipment,Slack,10308.46,Yes,Wire Transfer
+TXN-1052,2024-10-23,HR,Equipment,Salesforce,22639.99,No,Check
+TXN-1053,2024-07-28,Sales,Consulting,Workday,7605.59,No,Wire Transfer
+TXN-1054,2024-08-01,HR,Office Supplies,Slack,6968.8,Yes,Check
+TXN-1055,2024-03-20,Finance,Travel,Office Depot,21044.54,Yes,Check
+TXN-1056,2024-07-05,Operations,Payroll,Stripe,2281.9,No,Wire Transfer
+TXN-1057,2024-04-15,Sales,Marketing Spend,Deloitte,9601.78,Yes,Check
+TXN-1058,2024-02-16,Engineering,Equipment,Salesforce,6456.33,Yes,ACH
+TXN-1059,2024-11-02,Marketing,Software & Tools,Zoom,19574.58,Yes,Wire Transfer
+TXN-1060,2024-04-05,Marketing,Payroll,Adobe,15609.12,Yes,Wire Transfer
+TXN-1061,2024-03-20,HR,Marketing Spend,AT&T,19219.07,Yes,Wire Transfer
+TXN-1062,2024-05-19,Engineering,Software & Tools,LinkedIn,14551.38,No,Check
+TXN-1063,2024-12-27,Finance,Office Supplies,LinkedIn,2084.71,Yes,Credit Card
+TXN-1064,2024-10-26,Finance,Marketing Spend,AWS,21287.27,Yes,ACH
+TXN-1065,2024-02-17,Operations,Equipment,LinkedIn,16605.73,Yes,Credit Card
+TXN-1066,2024-06-21,HR,Utilities,Workday,2817.36,No,Wire Transfer
+TXN-1067,2024-11-09,HR,Travel,AT&T,18398.12,No,Check
+TXN-1068,2024-04-27,HR,Marketing Spend,Workday,8193.15,Yes,ACH
+TXN-1069,2024-10-20,HR,Office Supplies,LinkedIn,18811.81,No,ACH
+TXN-1070,2024-03-16,Sales,Utilities,Delta Airlines,21303.63,Yes,ACH
+TXN-1071,2024-12-09,Engineering,Marketing Spend,Office Depot,22031.94,Yes,Wire Transfer
+TXN-1072,2024-08-18,Sales,Office Supplies,Zoom,18057.85,Yes,Check
+TXN-1073,2024-01-03,Finance,Utilities,WeWork,11314.73,Yes,Check
+TXN-1074,2024-10-12,Finance,Office Supplies,Adobe,7793.91,Yes,Check
+TXN-1075,2024-08-09,Finance,Consulting,WeWork,8924.9,Yes,Wire Transfer
+TXN-1076,2024-12-18,Sales,Office Supplies,Zoom,8025.59,Yes,Wire Transfer
+TXN-1077,2024-10-25,Marketing,Utilities,Office Depot,7057.19,Yes,Credit Card
+TXN-1078,2024-03-10,Marketing,Marketing Spend,Salesforce,5841.58,Yes,ACH
+TXN-1079,2024-12-05,Sales,Payroll,LinkedIn,13923.3,No,Credit Card
+TXN-1080,2024-08-11,Sales,Marketing Spend,Google Workspace,11841.04,Yes,ACH
+TXN-1081,2024-07-16,HR,Software & Tools,AWS,20588.47,Yes,Wire Transfer
+TXN-1082,2024-04-04,Marketing,Marketing Spend,Office Depot,2312.49,No,Wire Transfer
+TXN-1083,2024-08-10,Operations,Equipment,Stripe,11372.76,No,ACH
+TXN-1084,2024-12-04,Operations,Payroll,Zoom,15318.85,Yes,Wire Transfer
+TXN-1085,2024-03-18,Engineering,Software & Tools,AWS,4095.02,Yes,Credit Card
+TXN-1086,2024-08-10,HR,Utilities,Salesforce,17296.4,Yes,ACH
+TXN-1087,2024-08-03,Finance,Marketing Spend,LinkedIn,17634.09,Yes,ACH
+TXN-1088,2024-09-08,Finance,Office Supplies,LinkedIn,10743.45,Yes,ACH
+TXN-1089,2024-05-20,Marketing,Software & Tools,HubSpot,1679.02,Yes,Check
+TXN-1090,2024-12-13,Sales,Utilities,WeWork,17279.21,No,Check
+TXN-1091,2024-12-11,Sales,Payroll,AT&T,22257.69,Yes,Credit Card
+TXN-1092,2024-10-19,Sales,Office Supplies,Salesforce,24055.4,Yes,Credit Card
+TXN-1093,2024-08-09,Marketing,Utilities,Google Workspace,13070.3,No,Check
+TXN-1094,2024-06-11,Sales,Utilities,LinkedIn,8829.43,Yes,Wire Transfer
+TXN-1095,2024-05-22,Engineering,Equipment,Slack,17403.11,Yes,Check
+TXN-1096,2024-02-25,Sales,Consulting,Slack,6459.49,Yes,Check
+TXN-1097,2024-06-20,HR,Payroll,Zoom,4852.05,No,Check
+TXN-1098,2024-03-10,Sales,Office Supplies,Adobe,6822.99,No,Credit Card
+TXN-1099,2024-05-18,Sales,Office Supplies,Salesforce,17802.61,No,Credit Card
+TXN-1100,2024-02-21,Marketing,Software & Tools,Stripe,11643.91,Yes,Check
+TXN-1101,2024-05-14,Finance,Marketing Spend,Stripe,12820.03,No,Check
+TXN-1102,2024-07-07,Marketing,Utilities,Workday,13871.37,Yes,Credit Card
+TXN-1103,2024-09-09,Engineering,Equipment,Stripe,8628.91,Yes,ACH
+TXN-1104,2024-10-22,Finance,Marketing Spend,Adobe,20969.4,Yes,Check
+TXN-1105,2024-09-25,Operations,Utilities,Office Depot,8759.07,No,Check
+TXN-1106,2024-04-19,Engineering,Office Supplies,Slack,24523.21,Yes,Check
+TXN-1107,2024-12-26,Sales,Consulting,Slack,18668.69,No,Wire Transfer
+TXN-1108,2024-10-11,HR,Payroll,Stripe,3330.91,Yes,Check
+TXN-1109,2024-03-14,Sales,Utilities,Stripe,580.62,Yes,Credit Card
+TXN-1110,2024-12-13,HR,Marketing Spend,LinkedIn,8596.32,Yes,ACH
+TXN-1111,2024-11-23,Finance,Equipment,Workday,23862.66,No,Credit Card
+TXN-1112,2024-11-10,Operations,Software & Tools,Delta Airlines,6022.3,Yes,Check
+TXN-1113,2024-12-10,Sales,Software & Tools,Workday,11203.23,Yes,Credit Card
+TXN-1114,2024-06-14,Engineering,Payroll,Google Workspace,7475.52,Yes,Check
+TXN-1115,2024-02-20,Operations,Travel,Stripe,4415.59,No,Wire Transfer
+TXN-1116,2024-11-09,HR,Travel,Adobe,5958.27,Yes,Credit Card
+TXN-1117,2024-03-03,HR,Marketing Spend,Adobe,17004.75,Yes,ACH
+TXN-1118,2024-08-28,Finance,Equipment,WeWork,17319.78,Yes,Check
+TXN-1119,2024-10-12,HR,Software & Tools,AT&T,6082.7,Yes,ACH
+TXN-1120,2024-10-28,Sales,Equipment,LinkedIn,7007.11,Yes,Check
+TXN-1121,2024-06-08,Engineering,Office Supplies,LinkedIn,15255.21,Yes,ACH
+TXN-1122,2024-11-21,Finance,Travel,Salesforce,15780.55,Yes,Check
+TXN-1123,2024-02-10,Sales,Consulting,Deloitte,18362.52,No,Wire Transfer
+TXN-1124,2024-06-17,Marketing,Travel,Office Depot,19705.52,Yes,Wire Transfer
+TXN-1125,2024-05-24,Engineering,Utilities,Stripe,24191.13,Yes,Credit Card
+TXN-1126,2024-04-28,HR,Software & Tools,LinkedIn,3690.77,No,ACH
+TXN-1127,2024-09-04,Sales,Equipment,Adobe,545.18,Yes,ACH
+TXN-1128,2024-06-04,Operations,Equipment,LinkedIn,20595.95,Yes,Check
+TXN-1129,2024-04-21,Sales,Consulting,AWS,22898.35,No,ACH
+TXN-1130,2024-01-02,Finance,Equipment,WeWork,3093.56,No,Credit Card
+TXN-1131,2024-03-13,Sales,Office Supplies,Adobe,22204.03,Yes,Check
+TXN-1132,2024-11-04,Operations,Travel,Stripe,22158.26,No,Check
+TXN-1133,2024-04-15,Engineering,Payroll,Adobe,17318.96,Yes,ACH
+TXN-1134,2024-11-12,Sales,Consulting,Salesforce,13702.75,No,ACH
+TXN-1135,2024-08-03,Marketing,Software & Tools,LinkedIn,23735.47,Yes,Credit Card
+TXN-1136,2024-03-26,Sales,Consulting,AT&T,6240.51,Yes,Credit Card
+TXN-1137,2024-04-11,Operations,Office Supplies,Zoom,14742.3,Yes,Credit Card
+TXN-1138,2024-09-09,Engineering,Travel,Zoom,24690.68,Yes,Credit Card
+TXN-1139,2024-06-26,Finance,Payroll,Zoom,3468.72,Yes,ACH
+TXN-1140,2024-03-24,Sales,Travel,Slack,6781.11,Yes,Credit Card
+TXN-1141,2024-09-19,HR,Utilities,AWS,19494.82,No,Wire Transfer
+TXN-1142,2024-11-17,Operations,Payroll,WeWork,18235.63,No,Credit Card
+TXN-1143,2024-07-22,Sales,Utilities,AWS,21213.0,No,Check
+TXN-1144,2024-03-03,Sales,Software & Tools,Google Workspace,8188.37,Yes,ACH
+TXN-1145,2024-10-14,HR,Marketing Spend,AWS,11452.14,Yes,Wire Transfer
+TXN-1146,2024-07-11,HR,Utilities,Stripe,22224.66,No,Check
+TXN-1147,2024-06-22,HR,Software & Tools,WeWork,7951.2,Yes,Wire Transfer
+TXN-1148,2024-02-03,Finance,Utilities,Slack,1864.91,Yes,ACH
+TXN-1149,2024-09-18,Marketing,Payroll,Deloitte,14744.33,Yes,Check
+TXN-1150,2024-12-02,Engineering,Equipment,WeWork,21728.69,Yes,ACH
+TXN-1151,2024-08-08,Sales,Office Supplies,Stripe,4037.31,Yes,ACH
+TXN-1152,2024-05-19,Operations,Consulting,Delta Airlines,3049.16,No,Credit Card
+TXN-1153,2024-05-23,Operations,Marketing Spend,Zoom,918.04,Yes,ACH
+TXN-1154,2024-03-19,Engineering,Payroll,LinkedIn,4698.86,No,Credit Card
+TXN-1155,2024-09-07,Marketing,Payroll,Slack,2475.59,No,Check
+TXN-1156,2024-12-11,Engineering,Travel,Zoom,9377.32,Yes,Credit Card
+TXN-1157,2024-01-22,Marketing,Travel,AWS,18910.01,Yes,Check
+TXN-1158,2024-08-14,Finance,Equipment,WeWork,12244.41,Yes,Credit Card
+TXN-1159,2024-11-22,Engineering,Equipment,AT&T,2950.07,No,ACH
+TXN-1160,2024-10-02,Sales,Office Supplies,Salesforce,10002.53,Yes,ACH
+TXN-1161,2024-05-11,Marketing,Travel,AWS,19151.19,Yes,Check
+TXN-1162,2024-07-18,Finance,Equipment,HubSpot,4557.23,Yes,ACH
+TXN-1163,2024-01-14,Sales,Equipment,Salesforce,21571.76,No,Credit Card
+TXN-1164,2024-12-21,Engineering,Equipment,Slack,14420.31,Yes,Credit Card
+TXN-1165,2024-03-26,HR,Payroll,AT&T,24161.75,No,ACH
+TXN-1166,2024-04-14,Sales,Equipment,AT&T,21143.21,No,Credit Card
+TXN-1167,2024-04-11,HR,Marketing Spend,Zoom,18695.96,Yes,Credit Card
+TXN-1168,2024-04-25,Operations,Software & Tools,Deloitte,13359.0,Yes,Wire Transfer
+TXN-1169,2024-04-06,Marketing,Software & Tools,AT&T,3831.82,Yes,Credit Card
+TXN-1170,2024-10-25,Marketing,Utilities,AT&T,11706.04,No,ACH
+TXN-1171,2024-02-16,Finance,Consulting,Adobe,3943.74,Yes,ACH
+TXN-1172,2024-02-10,Operations,Payroll,Adobe,8928.17,No,Credit Card
+TXN-1173,2024-02-21,Sales,Consulting,Stripe,20826.08,Yes,Check
+TXN-1174,2024-10-21,HR,Payroll,Delta Airlines,11353.4,Yes,Check
+TXN-1175,2024-08-04,Operations,Travel,Zoom,23951.51,Yes,Credit Card
+TXN-1176,2024-12-15,Operations,Travel,Adobe,1170.72,Yes,ACH
+TXN-1177,2024-06-22,Engineering,Marketing Spend,AT&T,9807.93,Yes,ACH
+TXN-1178,2024-11-13,Sales,Consulting,WeWork,2543.75,Yes,Wire Transfer
+TXN-1179,2024-03-12,Engineering,Software & Tools,WeWork,14651.94,No,Wire Transfer
+TXN-1180,2024-07-21,Operations,Software & Tools,Zoom,7877.63,Yes,Wire Transfer
+TXN-1181,2024-07-17,Finance,Software & Tools,Deloitte,16221.42,Yes,ACH
+TXN-1182,2024-06-25,Engineering,Travel,Adobe,23789.0,Yes,Wire Transfer
+TXN-1183,2024-02-17,Marketing,Travel,Zoom,2113.69,Yes,ACH
+TXN-1184,2024-03-06,Operations,Travel,Google Workspace,15011.71,Yes,Check
+TXN-1185,2024-12-08,Sales,Equipment,Adobe,9234.63,Yes,Check
+TXN-1186,2024-08-27,Marketing,Office Supplies,Delta Airlines,7874.8,Yes,Check
+TXN-1187,2024-09-17,HR,Marketing Spend,Slack,19497.48,Yes,Wire Transfer
+TXN-1188,2024-01-21,Operations,Travel,Adobe,21850.45,Yes,Credit Card
+TXN-1189,2024-03-09,Finance,Software & Tools,Adobe,7269.56,Yes,Check
+TXN-1190,2024-06-01,Sales,Office Supplies,Slack,20454.24,Yes,Check
+TXN-1191,2024-02-12,Operations,Consulting,Delta Airlines,6047.3,Yes,ACH
+TXN-1192,2024-03-02,Sales,Consulting,WeWork,19826.24,No,Wire Transfer
+TXN-1193,2024-01-03,Finance,Utilities,Salesforce,11325.32,Yes,Wire Transfer
+TXN-1194,2024-05-08,Marketing,Equipment,WeWork,2957.43,Yes,Credit Card
+TXN-1195,2024-10-15,Marketing,Equipment,AWS,16046.0,Yes,Check
+TXN-1196,2024-10-08,Operations,Payroll,HubSpot,15872.48,Yes,ACH
+TXN-1197,2024-04-19,HR,Payroll,Slack,15447.28,Yes,Credit Card
+TXN-1198,2024-09-18,Operations,Consulting,Office Depot,1878.45,Yes,Check
+TXN-1199,2024-06-09,HR,Payroll,HubSpot,15964.64,Yes,ACH
+TXN-1200,2024-11-21,Sales,Consulting,AWS,6179.92,Yes,Wire Transfer
+TXN-1201,2024-11-06,Sales,Consulting,Stripe,13741.14,No,Check
+TXN-1202,2024-02-23,Finance,Travel,Zoom,20325.14,No,Credit Card
+TXN-1203,2024-04-02,Engineering,Office Supplies,Deloitte,1286.4,Yes,Check
+TXN-1204,2024-11-07,Operations,Utilities,WeWork,6482.18,Yes,Credit Card
+TXN-1205,2024-06-14,Finance,Consulting,Workday,6975.77,No,Check
+TXN-1206,2024-08-23,HR,Consulting,Adobe,24348.34,Yes,ACH
+TXN-1207,2024-10-27,Sales,Equipment,Google Workspace,2157.39,Yes,ACH
+TXN-1208,2024-05-10,Sales,Software & Tools,Adobe,8332.41,No,Wire Transfer
+TXN-1209,2024-01-24,Finance,Utilities,Stripe,8918.37,Yes,Check
+TXN-1210,2024-11-13,Engineering,Payroll,Deloitte,2061.02,Yes,Credit Card
+TXN-1211,2024-02-08,Marketing,Utilities,Zoom,1063.01,Yes,ACH
+TXN-1212,2024-11-15,HR,Payroll,Deloitte,15206.35,Yes,Check
+TXN-1213,2024-07-11,Sales,Travel,LinkedIn,13330.61,Yes,Wire Transfer
+TXN-1214,2024-08-17,Sales,Payroll,Slack,18444.74,Yes,ACH
+TXN-1215,2024-10-10,Engineering,Utilities,HubSpot,5521.35,No,Wire Transfer
+TXN-1216,2024-08-06,Sales,Travel,Workday,21350.09,No,Credit Card
+TXN-1217,2024-12-03,Finance,Consulting,Office Depot,16762.43,Yes,ACH
+TXN-1218,2024-09-08,Marketing,Travel,AWS,19883.67,Yes,Wire Transfer
+TXN-1219,2024-09-19,Marketing,Utilities,Deloitte,851.84,No,Wire Transfer
+TXN-1220,2024-07-23,Operations,Software & Tools,HubSpot,1830.55,No,Check
+TXN-1221,2024-06-21,HR,Software & Tools,AWS,3308.1,No,Check
+TXN-1222,2024-09-21,Finance,Consulting,AT&T,3382.7,Yes,Wire Transfer
+TXN-1223,2024-09-05,HR,Payroll,WeWork,20818.49,Yes,Wire Transfer
+TXN-1224,2024-09-10,Engineering,Office Supplies,Stripe,8781.37,Yes,ACH
+TXN-1225,2024-05-20,Marketing,Marketing Spend,Office Depot,3304.22,Yes,Wire Transfer
+TXN-1226,2024-10-24,Operations,Travel,Workday,4445.78,Yes,Credit Card
+TXN-1227,2024-11-25,Sales,Software & Tools,AT&T,1327.45,Yes,Wire Transfer
+TXN-1228,2024-01-16,Operations,Equipment,Workday,15529.09,Yes,ACH
+TXN-1229,2024-11-13,HR,Office Supplies,WeWork,20156.27,No,Credit Card
+TXN-1230,2024-07-16,Finance,Payroll,Adobe,4120.4,Yes,ACH
+TXN-1231,2024-12-11,Operations,Travel,HubSpot,7952.05,Yes,Check
+TXN-1232,2024-02-11,Marketing,Consulting,Delta Airlines,12971.51,No,Credit Card
+TXN-1233,2024-02-02,Engineering,Utilities,WeWork,6348.39,No,Check
+TXN-1234,2024-10-24,Marketing,Travel,Deloitte,20374.25,Yes,Wire Transfer
+TXN-1235,2024-05-16,HR,Utilities,Salesforce,12569.24,Yes,Check
+TXN-1236,2024-04-19,Operations,Utilities,Deloitte,24173.83,Yes,Credit Card
+TXN-1237,2024-11-22,Engineering,Utilities,Adobe,15018.47,Yes,Credit Card
+TXN-1238,2024-05-24,Sales,Equipment,Deloitte,3521.59,No,ACH
+TXN-1239,2024-09-07,Sales,Equipment,Deloitte,1468.71,Yes,Credit Card
+TXN-1240,2024-05-27,HR,Utilities,AT&T,19157.22,Yes,Wire Transfer
+TXN-1241,2024-06-18,Sales,Equipment,Deloitte,9455.32,Yes,Wire Transfer
+TXN-1242,2024-01-02,Operations,Equipment,Google Workspace,12601.93,Yes,Check
+TXN-1243,2024-09-05,Operations,Utilities,Deloitte,3893.73,Yes,Wire Transfer
+TXN-1244,2024-09-27,HR,Marketing Spend,Office Depot,14924.37,No,ACH
+TXN-1245,2024-11-04,HR,Payroll,Slack,9335.27,Yes,Credit Card
+TXN-1246,2024-11-26,Operations,Utilities,Zoom,6785.15,Yes,Credit Card
+TXN-1247,2024-11-24,Operations,Utilities,AT&T,4428.7,No,Wire Transfer
+TXN-1248,2024-12-04,Finance,Office Supplies,Delta Airlines,982.95,Yes,Check
+TXN-1249,2024-12-07,Engineering,Equipment,Slack,3955.5,No,Credit Card
+TXN-1250,2024-09-11,Finance,Travel,LinkedIn,13063.34,No,Check
+TXN-1251,2024-09-11,Engineering,Travel,Office Depot,11599.66,Yes,ACH
+TXN-1252,2024-04-09,Operations,Utilities,Office Depot,4968.15,Yes,Wire Transfer
+TXN-1253,2024-12-23,Engineering,Marketing Spend,Adobe,17681.54,Yes,Check
+TXN-1254,2024-10-22,Engineering,Marketing Spend,Office Depot,7337.18,No,Check
+TXN-1255,2024-05-23,Engineering,Travel,AWS,7403.23,Yes,Check
+TXN-1256,2024-04-07,Finance,Marketing Spend,Stripe,18733.99,Yes,ACH
+TXN-1257,2024-10-08,Marketing,Software & Tools,Delta Airlines,15468.79,Yes,Wire Transfer
+TXN-1258,2024-07-11,Finance,Office Supplies,HubSpot,1501.78,No,Credit Card
+TXN-1259,2024-09-06,Finance,Travel,Slack,328.5,No,Check
+TXN-1260,2024-05-11,Finance,Office Supplies,WeWork,18946.59,Yes,Credit Card
+TXN-1261,2024-12-28,Finance,Office Supplies,Workday,13471.78,Yes,Wire Transfer
+TXN-1262,2024-01-27,HR,Travel,Slack,23361.28,No,Wire Transfer
+TXN-1263,2024-01-10,Finance,Marketing Spend,AT&T,21943.23,Yes,ACH
+TXN-1264,2024-09-17,Engineering,Utilities,Adobe,24729.67,Yes,Check
+TXN-1265,2024-06-06,Engineering,Office Supplies,HubSpot,20258.58,No,ACH
+TXN-1266,2024-06-26,Finance,Travel,WeWork,549.29,Yes,Wire Transfer
+TXN-1267,2024-09-11,Operations,Equipment,AWS,20709.35,No,Credit Card
+TXN-1268,2024-04-01,Marketing,Travel,WeWork,12040.86,No,Wire Transfer
+TXN-1269,2024-05-19,HR,Marketing Spend,HubSpot,23860.06,Yes,ACH
+TXN-1270,2024-01-22,Finance,Consulting,AWS,17380.66,No,ACH
+TXN-1271,2024-12-25,Marketing,Equipment,WeWork,17214.63,Yes,ACH
+TXN-1272,2024-03-16,Engineering,Office Supplies,Google Workspace,5634.39,No,ACH
+TXN-1273,2024-11-27,HR,Utilities,Delta Airlines,18982.29,Yes,Credit Card
+TXN-1274,2024-06-03,Operations,Utilities,Workday,13298.69,Yes,Credit Card
+TXN-1275,2024-03-06,Operations,Office Supplies,Deloitte,14403.0,No,Credit Card
+TXN-1276,2024-08-03,Finance,Office Supplies,Workday,17979.57,No,Credit Card
+TXN-1277,2024-08-19,HR,Travel,Salesforce,12928.55,No,ACH
+TXN-1278,2024-01-24,Finance,Payroll,Delta Airlines,10019.53,Yes,Credit Card
+TXN-1279,2024-09-02,HR,Consulting,Workday,17569.54,Yes,Check
+TXN-1280,2024-03-25,Sales,Marketing Spend,LinkedIn,10339.9,No,ACH
+TXN-1281,2024-07-13,HR,Utilities,AWS,21766.58,Yes,ACH
+TXN-1282,2024-07-17,Sales,Travel,Google Workspace,24822.6,Yes,Credit Card
+TXN-1283,2024-12-18,Sales,Marketing Spend,Slack,11682.5,No,Wire Transfer
+TXN-1284,2024-05-07,Marketing,Utilities,Workday,8784.76,Yes,Credit Card
+TXN-1285,2024-01-08,Finance,Equipment,Delta Airlines,15450.1,Yes,Credit Card
+TXN-1286,2024-11-23,Operations,Payroll,Stripe,11271.74,Yes,Wire Transfer
+TXN-1287,2024-04-18,Finance,Payroll,Delta Airlines,10176.18,Yes,Wire Transfer
+TXN-1288,2024-12-19,Operations,Marketing Spend,Deloitte,6007.21,Yes,Wire Transfer
+TXN-1289,2024-09-08,Engineering,Travel,Slack,24645.25,Yes,ACH
+TXN-1290,2024-07-18,Sales,Travel,Adobe,15724.63,Yes,ACH
+TXN-1291,2024-06-23,Finance,Equipment,Slack,19687.95,No,Wire Transfer
+TXN-1292,2024-09-16,Engineering,Equipment,Delta Airlines,4760.2,Yes,ACH
+TXN-1293,2024-01-18,Finance,Travel,Slack,20183.25,No,Wire Transfer
+TXN-1294,2024-06-21,HR,Office Supplies,AWS,6523.89,No,ACH
+TXN-1295,2024-07-22,Sales,Office Supplies,AT&T,1478.11,Yes,Credit Card
+TXN-1296,2024-06-10,Marketing,Office Supplies,Workday,12088.98,Yes,Wire Transfer
+TXN-1297,2024-08-08,Marketing,Software & Tools,HubSpot,18722.6,Yes,Check
+TXN-1298,2024-07-15,Marketing,Consulting,Office Depot,19432.74,Yes,ACH
+TXN-1299,2024-08-15,Engineering,Consulting,AWS,12917.85,No,ACH
+TXN-1300,2024-01-19,Marketing,Consulting,Stripe,7960.47,Yes,Wire Transfer
+TXN-1301,2024-10-19,Sales,Marketing Spend,HubSpot,13922.13,No,ACH
+TXN-1302,2024-07-19,Marketing,Office Supplies,Stripe,8380.66,Yes,Check
+TXN-1303,2024-08-24,Operations,Consulting,LinkedIn,6581.7,No,Check
+TXN-1304,2024-12-18,Marketing,Consulting,Adobe,4397.79,Yes,Credit Card
+TXN-1305,2024-02-27,Operations,Payroll,LinkedIn,21008.9,Yes,Credit Card
+TXN-1306,2024-04-03,HR,Travel,HubSpot,21095.11,Yes,Credit Card
+TXN-1307,2024-10-21,Marketing,Utilities,LinkedIn,9455.38,No,Check
+TXN-1308,2024-07-01,Sales,Payroll,Salesforce,13398.87,Yes,ACH
+TXN-1309,2024-03-04,Sales,Equipment,Workday,20192.96,Yes,Wire Transfer
+TXN-1310,2024-05-27,Marketing,Office Supplies,Deloitte,15570.56,Yes,Check
+TXN-1311,2024-08-19,Sales,Consulting,Delta Airlines,23990.59,Yes,ACH
+TXN-1312,2024-11-25,Finance,Software & Tools,Salesforce,16412.65,Yes,Check
+TXN-1313,2024-01-21,HR,Equipment,Salesforce,13907.0,Yes,Credit Card
+TXN-1314,2024-06-19,HR,Equipment,Stripe,16193.7,Yes,Credit Card
+TXN-1315,2024-12-19,Marketing,Office Supplies,Adobe,22551.57,Yes,Credit Card
+TXN-1316,2024-10-22,Sales,Marketing Spend,Salesforce,22502.93,Yes,ACH
+TXN-1317,2024-12-27,Sales,Office Supplies,Slack,14758.5,Yes,ACH
+TXN-1318,2024-07-22,Marketing,Office Supplies,Workday,14254.06,Yes,Check
+TXN-1319,2024-12-24,Finance,Travel,AWS,19804.35,Yes,Credit Card
+TXN-1320,2024-02-11,Sales,Equipment,AT&T,5957.17,No,ACH
+TXN-1321,2024-08-16,Sales,Marketing Spend,Delta Airlines,19631.99,Yes,Check
+TXN-1322,2024-11-13,HR,Travel,AWS,17056.43,Yes,Wire Transfer
+TXN-1323,2024-03-13,Finance,Software & Tools,HubSpot,2234.54,Yes,Check
+TXN-1324,2024-01-10,Engineering,Consulting,Adobe,2842.46,Yes,ACH
+TXN-1325,2024-07-15,Sales,Travel,Office Depot,2364.97,No,Credit Card
+TXN-1326,2024-02-20,Sales,Software & Tools,AT&T,8977.07,Yes,Check
+TXN-1327,2024-02-24,Sales,Marketing Spend,Workday,10462.49,Yes,Wire Transfer
+TXN-1328,2024-05-10,Finance,Equipment,WeWork,4403.64,No,Wire Transfer
+TXN-1329,2024-07-10,Sales,Travel,Adobe,10979.97,Yes,ACH
+TXN-1330,2024-08-20,Engineering,Office Supplies,AT&T,18078.31,Yes,Check
+TXN-1331,2024-07-11,Sales,Travel,Stripe,7755.52,No,ACH
+TXN-1332,2024-11-20,HR,Consulting,Google Workspace,10879.28,Yes,ACH
+TXN-1333,2024-03-13,Operations,Office Supplies,Deloitte,12079.44,Yes,Check
+TXN-1334,2024-05-27,Operations,Office Supplies,Zoom,8281.98,No,ACH
+TXN-1335,2024-09-06,Sales,Office Supplies,LinkedIn,14887.23,Yes,Check
+TXN-1336,2024-05-27,Finance,Office Supplies,HubSpot,11073.68,Yes,Check
+TXN-1337,2024-05-08,Finance,Utilities,WeWork,3651.64,Yes,Check
+TXN-1338,2024-10-16,HR,Software & Tools,AT&T,11336.85,No,Check
+TXN-1339,2024-06-23,Operations,Payroll,Workday,19809.88,Yes,Credit Card
+TXN-1340,2024-10-02,Marketing,Consulting,AT&T,4325.19,No,ACH
+TXN-1341,2024-05-08,HR,Software & Tools,Office Depot,461.58,Yes,Check
+TXN-1342,2024-11-19,Engineering,Equipment,HubSpot,11683.97,Yes,ACH
+TXN-1343,2024-07-03,Sales,Utilities,AWS,2792.82,Yes,ACH
+TXN-1344,2024-04-17,Engineering,Consulting,Adobe,11492.25,Yes,Check
+TXN-1345,2024-08-11,Sales,Utilities,AWS,18105.45,Yes,Credit Card
+TXN-1346,2024-06-21,Finance,Software & Tools,AWS,760.11,Yes,Wire Transfer
+TXN-1347,2024-06-18,Operations,Travel,Slack,13887.38,No,Wire Transfer
+TXN-1348,2024-11-14,HR,Travel,Slack,4822.4,Yes,Wire Transfer
+TXN-1349,2024-12-07,HR,Equipment,Delta Airlines,9843.13,Yes,Credit Card
+TXN-1350,2024-09-06,Operations,Software & Tools,Deloitte,20027.66,Yes,Wire Transfer
+TXN-1351,2024-08-17,HR,Software & Tools,LinkedIn,6706.36,Yes,Check
+TXN-1352,2024-06-12,Operations,Equipment,Stripe,14757.72,No,Wire Transfer
+TXN-1353,2024-10-03,Finance,Marketing Spend,LinkedIn,22983.33,Yes,ACH
+TXN-1354,2024-03-12,Sales,Office Supplies,HubSpot,7773.42,Yes,Check
+TXN-1355,2024-07-06,HR,Travel,Adobe,14455.19,Yes,Wire Transfer
+TXN-1356,2024-06-27,HR,Marketing Spend,Adobe,3679.35,Yes,ACH
+TXN-1357,2024-07-18,Sales,Utilities,Office Depot,3586.06,No,Check
+TXN-1358,2024-08-16,Finance,Utilities,Google Workspace,10507.63,Yes,Credit Card
+TXN-1359,2024-04-18,Marketing,Marketing Spend,WeWork,1010.84,Yes,Check
+TXN-1360,2024-02-19,Operations,Utilities,AWS,13833.21,Yes,ACH
+TXN-1361,2024-08-18,Operations,Payroll,Delta Airlines,19048.1,No,Credit Card
+TXN-1362,2024-01-15,Finance,Office Supplies,WeWork,7583.18,Yes,Credit Card
+TXN-1363,2024-04-07,HR,Software & Tools,Zoom,19435.66,Yes,Check
+TXN-1364,2024-04-26,Marketing,Travel,Salesforce,19664.26,Yes,ACH
+TXN-1365,2024-12-10,Operations,Travel,WeWork,8226.61,Yes,Credit Card
+TXN-1366,2024-05-28,Marketing,Equipment,LinkedIn,22985.46,Yes,Wire Transfer
+TXN-1367,2024-04-25,Marketing,Travel,Stripe,17842.59,No,Check
+TXN-1368,2024-07-15,Marketing,Marketing Spend,AWS,15769.76,Yes,Check
+TXN-1369,2024-06-15,Operations,Marketing Spend,Adobe,17428.65,Yes,Credit Card
+TXN-1370,2024-08-21,Finance,Software & Tools,LinkedIn,18327.11,Yes,Credit Card
+TXN-1371,2024-07-27,Operations,Equipment,Delta Airlines,5602.18,No,ACH
+TXN-1372,2024-10-05,Engineering,Marketing Spend,AT&T,8576.33,No,ACH
+TXN-1373,2024-11-26,Finance,Payroll,Stripe,1339.38,No,Credit Card
+TXN-1374,2024-01-14,Sales,Travel,Delta Airlines,11143.89,Yes,ACH
+TXN-1375,2024-06-09,Marketing,Marketing Spend,AWS,2514.83,Yes,Wire Transfer
+TXN-1376,2024-12-23,Sales,Equipment,Zoom,15714.99,Yes,Check
+TXN-1377,2024-01-07,Finance,Software & Tools,Adobe,17651.71,Yes,Wire Transfer
+TXN-1378,2024-08-01,Operations,Office Supplies,Salesforce,13082.22,Yes,Credit Card
+TXN-1379,2024-04-13,HR,Travel,AWS,12046.97,Yes,Credit Card
+TXN-1380,2024-03-13,Engineering,Consulting,Zoom,22048.53,Yes,Wire Transfer
+TXN-1381,2024-03-15,Sales,Payroll,Deloitte,15335.92,Yes,Wire Transfer
+TXN-1382,2024-02-04,HR,Utilities,Google Workspace,21527.07,Yes,Check
+TXN-1383,2024-03-08,Engineering,Equipment,WeWork,7999.69,Yes,Wire Transfer
+TXN-1384,2024-12-01,Operations,Marketing Spend,Stripe,19518.45,Yes,Wire Transfer
+TXN-1385,2024-05-21,Operations,Office Supplies,Salesforce,18746.52,Yes,Check
+TXN-1386,2024-11-20,HR,Software & Tools,AWS,6178.83,Yes,ACH
+TXN-1387,2024-10-14,Engineering,Travel,Deloitte,9793.59,Yes,Check
+TXN-1388,2024-01-09,Sales,Payroll,Delta Airlines,14766.61,Yes,Credit Card
+TXN-1389,2024-09-25,HR,Marketing Spend,Slack,15788.55,No,Check
+TXN-1390,2024-05-03,Sales,Travel,Office Depot,7081.2,Yes,Wire Transfer
+TXN-1391,2024-11-25,Operations,Consulting,Stripe,9890.14,Yes,ACH
+TXN-1392,2024-04-02,Finance,Equipment,Delta Airlines,18302.97,Yes,Check
+TXN-1393,2024-01-10,Sales,Utilities,LinkedIn,15384.96,Yes,Credit Card
+TXN-1394,2024-03-16,Sales,Travel,Deloitte,17597.19,Yes,Wire Transfer
+TXN-1395,2024-05-24,Engineering,Travel,Workday,18794.45,Yes,Credit Card
+TXN-1396,2024-02-09,Engineering,Equipment,HubSpot,6945.12,Yes,Check
+TXN-1397,2024-10-06,HR,Consulting,Deloitte,1574.89,Yes,ACH
+TXN-1398,2024-09-01,Sales,Software & Tools,Salesforce,5864.43,Yes,Wire Transfer
+TXN-1399,2024-03-06,Sales,Utilities,Workday,9226.62,Yes,Check
+TXN-1400,2024-12-11,Marketing,Consulting,WeWork,6356.93,Yes,ACH
+TXN-1401,2024-09-02,Sales,Payroll,Slack,4647.74,Yes,Check
+TXN-1402,2024-09-15,Engineering,Marketing Spend,Salesforce,8317.06,Yes,Wire Transfer
+TXN-1403,2024-04-15,Engineering,Marketing Spend,Deloitte,18541.48,No,Wire Transfer
+TXN-1404,2024-07-01,Finance,Office Supplies,Delta Airlines,3934.05,Yes,Credit Card
+TXN-1405,2024-07-28,Engineering,Payroll,HubSpot,19021.44,Yes,Credit Card
+TXN-1406,2024-01-05,Marketing,Office Supplies,HubSpot,10611.43,Yes,Credit Card
+TXN-1407,2024-09-14,Sales,Office Supplies,HubSpot,22452.73,Yes,Check
+TXN-1408,2024-09-05,Finance,Software & Tools,LinkedIn,14603.11,No,Credit Card
+TXN-1409,2024-03-08,Operations,Payroll,WeWork,10987.58,Yes,ACH
+TXN-1410,2024-05-08,HR,Consulting,AWS,8087.83,Yes,Wire Transfer
+TXN-1411,2024-03-15,Operations,Software & Tools,Adobe,4054.18,Yes,Check
+TXN-1412,2024-04-15,Sales,Consulting,WeWork,24122.94,No,ACH
+TXN-1413,2024-11-10,Sales,Software & Tools,Stripe,4108.86,Yes,Wire Transfer
+TXN-1414,2024-04-12,Engineering,Travel,Slack,2462.08,Yes,ACH
+TXN-1415,2024-07-28,Engineering,Travel,Adobe,970.84,Yes,Credit Card
+TXN-1416,2024-03-04,HR,Software & Tools,Salesforce,20136.64,Yes,Wire Transfer
+TXN-1417,2024-06-22,Marketing,Office Supplies,LinkedIn,20627.1,Yes,ACH
+TXN-1418,2024-04-21,Sales,Payroll,Adobe,24929.6,Yes,Credit Card
+TXN-1419,2024-08-02,Engineering,Software & Tools,Google Workspace,1258.87,No,Check
+TXN-1420,2024-07-06,HR,Payroll,Deloitte,9691.69,Yes,Wire Transfer
+TXN-1421,2024-03-02,Engineering,Marketing Spend,AT&T,11261.08,Yes,ACH
+TXN-1422,2024-08-02,HR,Equipment,AWS,22092.91,Yes,Check
+TXN-1423,2024-09-08,Marketing,Equipment,LinkedIn,5146.55,Yes,Check
+TXN-1424,2024-08-12,Finance,Consulting,Workday,12096.17,Yes,Check
+TXN-1425,2024-10-08,Engineering,Travel,Salesforce,846.36,Yes,Credit Card
+TXN-1426,2024-04-06,HR,Consulting,AWS,19217.69,Yes,Wire Transfer
+TXN-1427,2024-04-19,Engineering,Payroll,Stripe,19148.43,No,ACH
+TXN-1428,2024-06-26,Marketing,Travel,HubSpot,6066.47,Yes,Credit Card
+TXN-1429,2024-10-05,Finance,Consulting,AT&T,23699.46,Yes,Check
+TXN-1430,2024-01-03,Operations,Marketing Spend,Salesforce,4553.81,Yes,Wire Transfer
+TXN-1431,2024-10-07,Sales,Utilities,Zoom,216.95,Yes,ACH
+TXN-1432,2024-06-02,Finance,Travel,Salesforce,22985.76,Yes,Wire Transfer
+TXN-1433,2024-06-23,Sales,Consulting,LinkedIn,24021.86,No,Credit Card
+TXN-1434,2024-03-24,Engineering,Marketing Spend,Slack,8200.56,No,ACH
+TXN-1435,2024-10-27,Marketing,Consulting,Google Workspace,5736.28,No,ACH
+TXN-1436,2024-12-01,Finance,Marketing Spend,HubSpot,3358.24,No,Credit Card
+TXN-1437,2024-10-08,Marketing,Consulting,LinkedIn,23041.75,Yes,Check
+TXN-1438,2024-04-12,Marketing,Consulting,Deloitte,18684.51,Yes,Credit Card
+TXN-1439,2024-05-07,Finance,Consulting,Delta Airlines,11276.42,Yes,ACH
+TXN-1440,2024-01-13,Engineering,Software & Tools,Adobe,18066.26,No,Wire Transfer
+TXN-1441,2024-06-18,HR,Utilities,Slack,22067.91,Yes,Check
+TXN-1442,2024-02-26,Operations,Office Supplies,Stripe,4233.88,Yes,ACH
+TXN-1443,2024-02-03,Sales,Consulting,Deloitte,6675.97,Yes,Check
+TXN-1444,2024-02-11,Marketing,Software & Tools,AT&T,13766.75,No,Credit Card
+TXN-1445,2024-07-06,HR,Travel,Salesforce,15261.48,Yes,ACH
+TXN-1446,2024-09-24,Marketing,Office Supplies,Workday,10350.14,Yes,ACH
+TXN-1447,2024-07-19,Engineering,Office Supplies,Office Depot,2578.71,No,Wire Transfer
+TXN-1448,2024-02-10,Sales,Consulting,Stripe,294.63,No,Wire Transfer
+TXN-1449,2024-11-10,Sales,Payroll,AWS,5332.43,No,Credit Card
+TXN-1450,2024-11-09,Engineering,Equipment,AWS,11879.42,No,Wire Transfer
+TXN-1451,2024-08-02,Engineering,Equipment,WeWork,9361.16,No,Check
+TXN-1452,2024-10-02,Engineering,Office Supplies,Google Workspace,20959.55,Yes,Credit Card
+TXN-1453,2024-07-25,Finance,Consulting,AT&T,20242.87,Yes,Credit Card
+TXN-1454,2024-11-28,HR,Equipment,Workday,24147.57,No,Wire Transfer
+TXN-1455,2024-12-02,HR,Marketing Spend,Office Depot,2158.09,Yes,Credit Card
+TXN-1456,2024-03-07,HR,Travel,Zoom,23736.72,Yes,Wire Transfer
+TXN-1457,2024-11-14,Sales,Equipment,Delta Airlines,2143.54,Yes,ACH
+TXN-1458,2024-09-13,Engineering,Software & Tools,Office Depot,2358.28,Yes,ACH
+TXN-1459,2024-01-26,Operations,Utilities,HubSpot,22945.62,No,Credit Card
+TXN-1460,2024-10-19,HR,Travel,Zoom,3875.35,Yes,Credit Card
+TXN-1461,2024-09-12,Operations,Software & Tools,Workday,19686.49,No,ACH
+TXN-1462,2024-08-02,HR,Utilities,Google Workspace,14386.18,Yes,Check
+TXN-1463,2024-06-23,Marketing,Equipment,Delta Airlines,1161.81,Yes,Check
+TXN-1464,2024-05-10,Engineering,Consulting,WeWork,701.78,No,Credit Card
+TXN-1465,2024-12-15,Marketing,Travel,Zoom,7651.92,Yes,ACH
+TXN-1466,2024-02-07,Finance,Equipment,Adobe,15203.48,Yes,Check
+TXN-1467,2024-06-27,Finance,Utilities,Salesforce,19035.43,Yes,Credit Card
+TXN-1468,2024-09-19,Engineering,Equipment,Salesforce,3564.12,Yes,Wire Transfer
+TXN-1469,2024-08-02,Marketing,Payroll,Workday,6387.36,Yes,Wire Transfer
+TXN-1470,2024-09-13,Engineering,Consulting,LinkedIn,20622.96,Yes,Credit Card
+TXN-1471,2024-08-06,Marketing,Consulting,Stripe,12321.91,No,ACH
+TXN-1472,2024-05-24,Engineering,Travel,Stripe,20973.81,Yes,ACH
+TXN-1473,2024-10-25,Sales,Equipment,Delta Airlines,1431.35,Yes,Wire Transfer
+TXN-1474,2024-07-17,Finance,Office Supplies,Salesforce,6873.27,Yes,Check
+TXN-1475,2024-01-08,Marketing,Travel,WeWork,15108.32,Yes,ACH
+TXN-1476,2024-08-09,HR,Equipment,Delta Airlines,21319.34,No,ACH
+TXN-1477,2024-01-17,Finance,Equipment,LinkedIn,14695.28,Yes,ACH
+TXN-1478,2024-06-09,Engineering,Software & Tools,LinkedIn,12147.11,Yes,ACH
+TXN-1479,2024-09-25,Engineering,Marketing Spend,Delta Airlines,4871.33,Yes,Check
+TXN-1480,2024-12-01,Finance,Consulting,LinkedIn,17082.74,No,ACH
+TXN-1481,2024-12-02,Engineering,Equipment,AT&T,10234.05,Yes,ACH
+TXN-1482,2024-11-26,Finance,Office Supplies,Adobe,17220.69,Yes,ACH
+TXN-1483,2024-08-05,Marketing,Travel,HubSpot,7485.84,Yes,Wire Transfer
+TXN-1484,2024-04-12,Finance,Consulting,Delta Airlines,16429.98,Yes,Check
+TXN-1485,2024-05-15,Engineering,Consulting,Stripe,6661.87,Yes,Check
+TXN-1486,2024-04-17,Sales,Software & Tools,AWS,11911.05,No,ACH
+TXN-1487,2024-03-05,HR,Payroll,Delta Airlines,21797.06,Yes,Check
+TXN-1488,2024-12-06,Operations,Utilities,Zoom,3751.96,Yes,Check
+TXN-1489,2024-01-01,Engineering,Travel,Adobe,7972.67,Yes,Wire Transfer
+TXN-1490,2024-02-05,Marketing,Travel,AT&T,12341.51,No,Check
+TXN-1491,2024-07-01,HR,Equipment,Salesforce,24140.13,Yes,ACH
+TXN-1492,2024-09-07,Sales,Consulting,Salesforce,18969.82,Yes,Wire Transfer
+TXN-1493,2024-02-13,Marketing,Consulting,Office Depot,7939.89,Yes,Wire Transfer
+TXN-1494,2024-05-15,Sales,Payroll,HubSpot,7595.42,Yes,Check
+TXN-1495,2024-08-12,Finance,Travel,Zoom,8699.77,Yes,Wire Transfer
+TXN-1496,2024-12-05,HR,Payroll,Delta Airlines,5864.77,Yes,Wire Transfer
+TXN-1497,2024-01-13,Sales,Consulting,Workday,17835.53,Yes,Credit Card
+TXN-1498,2024-11-27,Operations,Payroll,Salesforce,16616.85,Yes,Credit Card
+TXN-1499,2024-09-09,HR,Utilities,Adobe,9630.29,Yes,Wire Transfer
