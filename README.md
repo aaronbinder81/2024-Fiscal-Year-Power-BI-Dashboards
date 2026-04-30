@@ -89,7 +89,7 @@ Budget Remaining Label =
 
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop) (free)
 2. Clone or download this repository
-3. Open `dashboard/finance_dashboard.pbix`
+3. Open `dashboard/PowerBI_file.pbix`
 4. The data is embedded — no additional setup required
 
 ---
