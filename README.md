@@ -6,9 +6,7 @@ An interactive, multi-page financial dashboard built in Power BI Desktop using s
 
 ## Preview
 
-> *Screenshots coming soon — open the `.pbix` file or view the exported PDF below.*
-
-📄 [View Full Dashboard (PDF)](exports/finance_dashboard.pdf)
+📄 [View Full Dashboard (PDF)](exports/Dashboards.pdf)
 
 ---
 
